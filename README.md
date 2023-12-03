@@ -2,11 +2,15 @@
 title: Bitcoin Eindhoven
 ---
 
+![Bitcoin Eindhoven](img/bitcoin_eindhoven.png){.header}
+
 Bitcoin meetup Eindhoven. We discuss, help and enjoy talking about bitcoin every first Friday of every quarter.
 
-## [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoineindhoven/)
+## Meetup.com
 
-## Upcoming
+Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoineindhoven/)
+
+## Upcoming events
 
 - ### 2024-01-05 Place du Nord Eindhoven
     
@@ -16,7 +20,7 @@ Bitcoin meetup Eindhoven. We discuss, help and enjoy talking about bitcoin every
 
     It’s a 5 minutes walk from the central station of Eindhoven.
 
-## Past Events
+## Past events
 
 - ### 2023-10-06 Place du Nord Eindhoven
     
