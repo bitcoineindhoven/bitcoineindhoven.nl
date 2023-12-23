@@ -12,7 +12,7 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 
 ## Upcoming events
 
-- ### 2024-01-05 Place du Nord Eindhoven
+- ### 2024-01-05 Meetup #2 Place du Nord Eindhoven
     
     ![Bitcoin Eindhoven Meetup #2](img/meetup2.jpg)
     
@@ -22,9 +22,11 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 
     It’s a 5 minutes walk from the central station of Eindhoven.
 
+    ---
+
 ## Past events
 
-- ### 2023-10-06 Place du Nord Eindhoven
+- ### 2023-10-06 Meetup #1 Place du Nord Eindhoven
     
     ![Bitcoin Eindhoven Meetup #1](img/meetup1.jpg)
 
@@ -34,6 +36,10 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 
     It’s a 5 minutes walk from the central station of Eindhoven.
 
-- ### 2023-07-07 BeanBrothers Stadsbranderij Eindhoven
+    ---
+
+- ### 2023-07-07 Meetup #0 BeanBrothers Stadsbranderij Eindhoven
     
     Every first Friday of the quarter some bitcoiners meet in the wild. Enjoy and pay with bitcoin at the coffee place.
+
+    ---
