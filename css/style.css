@@ -4,7 +4,7 @@
 }
 body {
     background-color: #f1f1f1;
-    margin: 30px;
+    margin: 40px;
 }
 
 header {
@@ -12,11 +12,15 @@ header {
 }
 
 .header {
-	width: 350px;
+	width: 300px;
 }
 
 figure {
 	margin: 0;
+}
+
+figure img {
+	width: 450px;
 }
 
 figcaption {
