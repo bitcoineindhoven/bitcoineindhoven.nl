@@ -12,6 +12,18 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 
 ## Upcoming events
 
+- ### 2024-04-05 Meetup #3 Place du Nord Eindhoven
+
+    Every first Friday of the quarter some bitcoiners meet in the wild. There is an interview and QnA with Gurtis Pleb with the title "How are we going to build our bitcoin citadel?". Half an hour interview and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin.
+
+    Parking garage almost underneath the venue.
+
+    It’s a 5 minutes walk from the central station of Eindhoven.
+
+    ---
+
+## Past events
+
 - ### 2024-01-05 Meetup #2 Place du Nord Eindhoven
     
     ![Bitcoin Eindhoven Meetup #2](img/meetup2.jpg)
@@ -23,8 +35,6 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
     It’s a 5 minutes walk from the central station of Eindhoven.
 
     ---
-
-## Past events
 
 - ### 2023-10-06 Meetup #1 Place du Nord Eindhoven
     
