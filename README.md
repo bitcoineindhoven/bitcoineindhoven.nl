@@ -12,7 +12,15 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 
 ## Upcoming events
 
-- ### 2024-XX-XX Meetup #4
+- ### 2024-07-05 Meetup #4 Place du Nord Eindhoven
+
+    Every first Friday of the quarter some bitcoiners meet in the wild. There is an interview and QnA with Lightning Checkout and currently a still unconfirmed mystery guest. The title of our interview "Lightning, is it the future of payments?". Half an hour interview and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin.
+
+    Parking garage almost underneath the venue.
+
+    It’s a 5 minutes walk from the central station of Eindhoven.
+
+    ---
 
 ## Past events
 
