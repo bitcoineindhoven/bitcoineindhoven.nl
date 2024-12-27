@@ -11,16 +11,16 @@ header {
 	display: none;
 }
 
-.header {
-	width: 300px;
-}
-
 figure {
 	margin: 0;
 }
 
 figure img {
 	width: 450px;
+}
+
+#logo img {
+	width: 300px;
 }
 
 figcaption {

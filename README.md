@@ -2,7 +2,7 @@
 title: Bitcoin Eindhoven
 ---
 
-![Bitcoin Eindhoven](img/bitcoin_eindhoven.png){.header}
+![Bitcoin Eindhoven](img/bitcoin_eindhoven.png){#logo}
 
 Bitcoin meetup Eindhoven. We discuss, help and enjoy talking about bitcoin every first Friday of every quarter.
 
@@ -12,22 +12,37 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 
 ## Upcoming events
 
-- ### 2024-10-11 Meetup #5 Place du Nord Eindhoven
+- ### 2025-01-03 Meetup #6 Place du Nord Eindhoven
 
-Normally every first Friday of the quarter some bitcoiners meet in the wild. This time it’ll be on the second friday. This is due to the combination of the antwerp and amsterdam conference during this week. The mining workshop on the 12th of october and this meetup on the 11th fit much better in the conference schedule. Eindhoven is also easily reachable from Amsterdam.
+	Every first Friday of the quarter some bitcoiners meet in the wild.
 
-There is an interview and QnA with Jelmer ten Wolde. The title of the interview “Why heat recovery and load balancing are critical to survive the bitcoin mining future". Half an hour interview and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin. Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
+	There is a celebration of bitcoin's sixteenth year of operation on genesis block day. To celebrate this we will view the amazing VPRO documentary about bitcoin that is a decade old now. The bitcoin price was just a couple hundred $. After the screening you can enjoy food and drinks and pay with bitcoin.
+
+	Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
+
     ---
     
 ## Past events
 
+- ### 2024-10-11 Meetup #5 Place du Nord Eindhoven
+
+	Normally every first Friday of the quarter some bitcoiners meet in the wild. This time it’ll be on the second friday. This is due to the combination of the antwerp and amsterdam conference during this week. The mining workshop on the 12th of october and this meetup on the 11th fit much better in the conference schedule. Eindhoven is also easily reachable from Amsterdam.
+
+	There is an interview and QnA with Jelmer ten Wolde. The title of the interview “Why heat recovery and load balancing are critical to survive the bitcoin mining future". Half an hour interview and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin. Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
+
+    ---
+
 - ### 2024-07-05 Meetup #4 Place du Nord Eindhoven
+
+    ![Bitcoin Eindhoven Meetup #4](img/meetup4.jpg)
 
     Every first Friday of the quarter some bitcoiners meet in the wild. There is an interview and QnA with Lightning Checkout and currently a still unconfirmed mystery guest. The title of our interview "Lightning, is it the future of payments?". Half an hour interview and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin.
 
     Parking garage almost underneath the venue.
 
     It’s a 5 minutes walk from the central station of Eindhoven.
+
+    ---
 
 - ### 2024-04-05 Meetup #3 Place du Nord Eindhoven
 
