@@ -14,11 +14,11 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 
 - ### 2025-04-04 Meetup #7 Place du Nord Eindhoven
 
-	Every first Friday of the quarter some bitcoiners meet in the wild.
+    Every first Friday of the quarter some bitcoiners meet in the wild at the Bitcoin Eindhoven Meetup. As from 16h00 the venue is open and first bitcoiners will be present. This time there will be an interview with *Alles voor Bitcoin* podcast host *Kim de Vos*, starting at 18h30.
 
-	As from 16h00 the venue is open and first bitcoiners will be present. The interview will start at 18.30.
+    You can enjoy food and drinks and pay with bitcoin.
 
-	Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
+    Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
 
     ---
     
