@@ -12,6 +12,18 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 
 ## Upcoming events
 
+- ### 2025-04-04 Meetup #7 Place du Nord Eindhoven
+
+	Every first Friday of the quarter some bitcoiners meet in the wild.
+
+	As from 16h00 the venue is open and first bitcoiners will be present. The interview will start at 18.30.
+
+	Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
+
+    ---
+    
+## Past events
+
 - ### 2025-01-03 Meetup #6 Place du Nord Eindhoven
 
 	Every first Friday of the quarter some bitcoiners meet in the wild.
@@ -19,10 +31,8 @@ Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoin
 	There is a celebration of bitcoin's sixteenth year of operation on genesis block day. To celebrate this we will view the amazing VPRO documentary about bitcoin that is a decade old now. The bitcoin price was just a couple hundred $. After the screening you can enjoy food and drinks and pay with bitcoin.
 
 	Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
-
-    ---
     
-## Past events
+    ---
 
 - ### 2024-10-11 Meetup #5 Place du Nord Eindhoven
 
