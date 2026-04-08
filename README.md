@@ -14,7 +14,15 @@ Bitcoin meetup Eindhoven. We discuss, help and enjoy talking about bitcoin every
 
 ## Upcoming events
 
-Coming soon...
+- ### 2026-04-09 Satoshi Radio Meetup @ PHOOD Farm & Kitchen Eindhoven
+
+    The Satoshi Radio podcast is organizing a special meetup in Eindhoven — the first time they're hosting one south of the rivers. The venue is PHOOD Farm & Kitchen, which serves an extensive Indonesian rijsttafel buffet in walking buffet style, with ingredients partly sourced from their own urban farm. The first drink is on the house, courtesy of Jos. Attendance is free; food costs €29 and you can pay by card, cash, or bitcoin (lightning).
+
+    This is an external event organized by Satoshi Radio. [Sign up via their Meetup page.](https://www.meetup.com/nl-nl/satoshi-radio-meetup/events/313755948/)
+
+    **Location:** PHOOD Farm & Kitchen, Hugo van der Goeslaan 2-01, 5613 LG Eindhoven — 17:00
+
+    ---
 
 ## Past events
 
