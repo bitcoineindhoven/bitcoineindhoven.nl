@@ -1,109 +1,77 @@
----
-title: Bitcoin Eindhoven
----
+# bitcoineindhoven.nl
 
-![Bitcoin Eindhoven](img/bitcoin_eindhoven.png){#logo}
+Source for **[bitcoineindhoven.nl](https://bitcoineindhoven.nl)** — the website for the Bitcoin Eindhoven meetup.
 
-Bitcoin meetup Eindhoven. We discuss, help and enjoy talking about bitcoin every first Friday of every quarter.
+A bitcoiner meetup in Eindhoven, The Netherlands. We gather in the wild to discuss, help, and enjoy talking about bitcoin — over food and drinks paid in sats.
 
-## Socials
+- Meetup: <https://www.meetup.com/bitcoinmeetup/>
+- X: <https://x.com/bitcoineindhove>
+- Telegram: <http://t.me/+ExwAFepy_HlmN2E0>
 
-* Join us on Meetup.com: [Bitcoin meetup Eindhoven](https://www.meetup.com/bitcoineindhoven/)
-* Follow us on X: [@bitcoineindhove](https://x.com/bitcoineindhove)
-* Chat with us on Telegram: [Bitcoin Eindhoven](http://t.me/+ExwAFepy_HlmN2E0)
+## How it works
 
-## Upcoming events
+Plain static HTML/CSS hosted on **GitHub Pages**. Push to `main`, and within a minute it's live on `bitcoineindhoven.nl` (the domain is wired via `CNAME`).
 
-- ### 2026-04-09 Satoshi Radio Meetup @ PHOOD Farm & Kitchen Eindhoven
+```
+index.html        — the whole page (hand-edited when adding events)
+css/style.css     — styles
+img/              — logos and meetup photos
+CNAME             — points the domain at GitHub Pages
+```
 
-    The Satoshi Radio podcast is organizing a special meetup in Eindhoven — the first time they're hosting one south of the rivers. The venue is PHOOD Farm & Kitchen, which serves an extensive Indonesian rijsttafel buffet in walking buffet style, with ingredients partly sourced from their own urban farm. The first drink is on the house, courtesy of Jos. Attendance is free; food costs €29 and you can pay by card, cash, or bitcoin (lightning).
+There is no build step. Edit, commit, push, done.
 
-    This is an external event organized by Satoshi Radio. [Sign up via their Meetup page.](https://www.meetup.com/nl-nl/satoshi-radio-meetup/events/313755948/)
+## Adding a new event
 
-    **Location:** PHOOD Farm & Kitchen, Hugo van der Goeslaan 2-01, 5613 LG Eindhoven — 17:00
+Open `index.html`. There are two relevant sections, each marked with a clear comment.
 
-    ---
+### When a new upcoming event is announced
 
-## Past events
+1. Find the `<!-- UPCOMING -->` block.
+2. If there's already a featured event there that has now passed, **first** move it into the past-events grid (see below).
+3. Replace the `<article class="featured">` with the new event's details:
+   - `<span class="featured-tag">` — short label, e.g. `Meetup #9`
+   - `<h3>` — the headline
+   - The three `<span>`s in `.featured-meta` — date / venue / price
+   - Body paragraphs
+   - The "Sign up on Meetup" link
 
-- ### 2025-04-04 Meetup #7 Place du Nord Eindhoven
+### When the upcoming event passes
 
-    Every first Friday of the quarter some bitcoiners meet in the wild at the Bitcoin Eindhoven Meetup. As from 16h00 the venue is open and first bitcoiners will be present. This time there will be an interview with *Alles voor Bitcoin* podcast host *Kim de Vos*, starting at 18h30.
+Move it into the past-events grid as a card. There are two card types:
 
-    You can enjoy food and drinks and pay with bitcoin.
+**Plain text card:**
+```html
+<article class="card">
+  <div class="number">Meetup #9</div>
+  <h4>Short headline</h4>
+  <div class="date"><span class="when">15 September 2026</span><span class="sep"></span><span class="where">PHOOD Farm</span></div>
+  <p class="desc">A short description of what happened.</p>
+</article>
+```
 
-    Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
+**Card with a poster photo** (use this when you have a meetup poster — its burned-in title becomes the card's title):
+```html
+<article class="card has-photo">
+  <div class="photo"><img src="img/meetup_9.jpg" alt="Meetup #9" /></div>
+  <div class="number">Meetup #9</div>
+  <h4>Short headline</h4>
+  <div class="date"><span class="when">15 September 2026</span><span class="sep"></span><span class="where">PHOOD Farm</span></div>
+  <p class="desc">A short description of what happened.</p>
+</article>
+```
+(With `has-photo`, the `<h4>` and `<div class="number">` are hidden by CSS. Keep them in the HTML anyway for accessibility / fallback.)
 
-    ---
+Paste it as the **first** card under `<div class="event-grid">` (newest first), then bump the `<span class="count">N events</span>` in the section title.
 
-- ### 2025-01-03 Meetup #6 Place du Nord Eindhoven
+## Logo assets
 
-	Every first Friday of the quarter some bitcoiners meet in the wild.
+- `img/bitcoin_eindhoven_black.png` — original wordmark, dark text on transparent (kept as a reference; not currently used)
+- `img/bitcoin_eindhoven_white.png` — wordmark with white "bitcoin" text, used on the dark site
+- `img/bitcoin_b.png` — round B icon alone, used as the favicon
 
-	There is a celebration of bitcoin's sixteenth year of operation on genesis block day. To celebrate this we will view the amazing VPRO documentary about bitcoin that is a decade old now. The bitcoin price was just a couple hundred $. After the screening you can enjoy food and drinks and pay with bitcoin.
+If you ever find the source PSD/AI of the logo, drop higher-res replacements at the same filenames and bump `.hero-logo width` in `css/style.css` for a sharper hero.
 
-	Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
-    
-    ---
+## License
 
-- ### 2024-10-11 Meetup #5 Place du Nord Eindhoven
-
-	Normally every first Friday of the quarter some bitcoiners meet in the wild. This time it’ll be on the second friday. This is due to the combination of the antwerp and amsterdam conference during this week. The mining workshop on the 12th of october and this meetup on the 11th fit much better in the conference schedule. Eindhoven is also easily reachable from Amsterdam.
-
-	There is an interview and QnA with Jelmer ten Wolde. The title of the interview “Why heat recovery and load balancing are critical to survive the bitcoin mining future". Half an hour interview and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin. Parking garage almost underneath the venue. It’s a 5 minutes walk from the central station of Eindhoven.
-
-    ---
-
-- ### 2024-07-05 Meetup #4 Place du Nord Eindhoven
-
-    ![Bitcoin Eindhoven Meetup #4](img/meetup4.jpg)
-
-    Every first Friday of the quarter some bitcoiners meet in the wild. There is an interview and QnA with Lightning Checkout and currently a still unconfirmed mystery guest. The title of our interview "Lightning, is it the future of payments?". Half an hour interview and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin.
-
-    Parking garage almost underneath the venue.
-
-    It’s a 5 minutes walk from the central station of Eindhoven.
-
-    ---
-
-- ### 2024-04-05 Meetup #3 Place du Nord Eindhoven
-
-    ![Bitcoin Eindhoven Meetup #3](img/meetup3.jpg)
-
-    Every first Friday of the quarter some bitcoiners meet in the wild. There is an interview and QnA with Gurtis Pleb with the title "How are we going to build our bitcoin citadel?". Half an hour interview and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin.
-
-    Parking garage almost underneath the venue.
-
-    It’s a 5 minutes walk from the central station of Eindhoven.
-
-    ---
-
-- ### 2024-01-05 Meetup #2 Place du Nord Eindhoven
-
-    ![Bitcoin Eindhoven Meetup #2](img/meetup2.jpg)
-
-    Every first Friday of the quarter some bitcoiners meet in the wild. There is a presentation by Aaron van Wirdum with the title "Bitcoin, over half a century of freedom development, explained". The presentation will be given in English. Half an hour presentation and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin.
-
-    Free parking: Rosa Manusstraat (be careful, there are also paid parts of that street)
-
-    It’s a 5 minutes walk from the central station of Eindhoven.
-
-    ---
-
-- ### 2023-10-06 Meetup #1 Place du Nord Eindhoven
-
-    ![Bitcoin Eindhoven Meetup #1](img/meetup1.jpg)
-
-    Every first Friday of the quarter some bitcoiners meet in the wild. There is a presentation by Patrick van der Meijde, who started bitkassa and bitcoin city Arnhem a decade ago. The presentation “10 years of merchants accepting bitcoin in the netherlands, the journey” will be given in English. Half an hour presentation and half hour questions. After this informative hour you can enjoy food and drinks and pay with bitcoin.
-
-    Free parking: Rosa Manusstraat (be careful, there are also paid parts of that street)
-
-    It’s a 5 minutes walk from the central station of Eindhoven.
-
-    ---
-
-- ### 2023-07-07 Meetup #0 BeanBrothers Stadsbranderij Eindhoven
-
-    Every first Friday of the quarter some bitcoiners meet in the wild. Enjoy and pay with bitcoin at the coffee place.
-
-    ---
+[MIT](LICENSE)
