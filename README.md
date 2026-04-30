@@ -6,7 +6,7 @@ A bitcoiner meetup in Eindhoven, The Netherlands. We gather in the wild to discu
 
 - Meetup: <https://www.meetup.com/bitcoinmeetup/>
 - X: <https://x.com/bitcoineindhove>
-- Telegram: <http://t.me/+ExwAFepy_HlmN2E0>
+- Telegram: <https://t.me/+ExwAFepy_HlmN2E0>
 
 ## How it works
 
